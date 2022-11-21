@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 pizza
 pasta
 tacos
 steak
+=======
+Jaws
+Back to the Future
+Alien
+The Green Mile
+>>>>>>> movies
